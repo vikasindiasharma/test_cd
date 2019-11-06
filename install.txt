@@ -1,0 +1,23 @@
+pip3 install django
+pip3 install djangorestframework
+pip install slackclient
+pip3 install slackeventsapi
+
+http://87ee183c.ngrok.io/events/
+
+https://api.slack.com/apps/AQ63YMPU6
+
+https://python-slackclient.readthedocs.io/en/1.0.7/basic_usage.html
+
+https://github.com/slackapi/python-slackclient/wiki/Migrating-to-2.x
+
+https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e
+
+Actual Help : https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e
+
+Settings : 
+https://api.slack.com/apps/AQ63YMPU6
+
+My App : https://app.slack.com/client/TQ35EH4GL/DQ3TJFC1K
+
+ngrok http 8000
