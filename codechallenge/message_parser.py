@@ -19,7 +19,7 @@ class MessageParser:
             self.image_url = result[0]
 
         result = re.findall("label:\s*([^,]+)", temp_message)
-        if len(result) == 1 and result[0]  in MessageParser.VALLID_LABELS:
+        if len(result) == 1 and result[0] in MessageParser.VALLID_LABELS:
             self.image_label_found = True
             self.image_label = result[0]
 

@@ -25,7 +25,7 @@ SECRET_KEY = '(k2i!ccut2#j+sgl_5%^toecr7(--0pmltw1l35t20zlxb@m)9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['860acca5.ngrok.io','127.0.0.1']
+ALLOWED_HOSTS = ['e89630fd.ngrok.io','127.0.0.1']
 
 
 # Application definition
@@ -118,7 +118,8 @@ USE_TZ = True
 SLACK_CLIENT_ID = '819184582564.822134737958'
 SLACK_CLIENT_SECRET = '02936ac4e0834abe0091f09721d8ed14'
 SLACK_VERIFICATION_TOKEN = 'YPseeUbsYMr8ShB3dXcReHqG'
-SLACK_BOT_USER_TOKEN = 'xoxb-819184582564-821785107159-eKslJesHZHdoZZz6VP0QYGq2'
+SLACK_BOT_USER_TOKEN = 'xoxb-819184582564-821785107159-UOpRHTJ0uYZ5PYKRn4cAOrdU'
+CSV_FILE_PATH='C:\\GitGub\\final\\colabelsite\\codechallenge\\flowers.csv'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
